@@ -1,0 +1,23 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "A command-line application to manage a company's employee database",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "employee",
+      "manager",
+      "cli",
+      "postgresql"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "dotenv": "^16.4.1",
+      "inquirer": "^8.2.4",
+      "pg": "^8.11.3"
+    }
+  }

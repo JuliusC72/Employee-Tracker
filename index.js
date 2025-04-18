@@ -24,7 +24,7 @@ pool.connect().then(() => {
 // Initialize application
 function init() {
   console.log("\n=================================");
-  console.log("   EMPLOYEE TRACKER   ");
+  console.log("        EMPLOYEE TRACKER        ");
   console.log("=================================\n");
   mainMenu();
 }
